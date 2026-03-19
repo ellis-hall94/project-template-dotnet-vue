@@ -13,8 +13,10 @@ This template provides a clean, opinionated starting point for all of my full‑
 
 🧱 Project Structure
 Code
+## 📁 Project Structure
+
+```
 project-template-dotnet-vue/
-│
 ├── backend/        # ASP.NET Core API (empty placeholder)
 ├── frontend/       # Vue application (empty placeholder)
 ├── docs/           # Architecture notes, diagrams, decisions
@@ -26,6 +28,8 @@ project-template-dotnet-vue/
 └── .github/
     └── workflows/
         └── ci.yml  # Minimal CI pipeline (expand later)
+```
+
         
 This structure mirrors how I organise production‑style full‑stack systems: clear separation of concerns, predictable layout, and space for documentation.
 
